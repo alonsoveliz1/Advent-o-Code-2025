@@ -1,4 +1,3 @@
 */.txt
 
-day*
-!*.rs
+day*[!.rs]
